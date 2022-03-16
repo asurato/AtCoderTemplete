@@ -1,0 +1,12 @@
+{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "asurato",
+    "classifications": [ "Common", "Code" ],
+    "identity": "ExampleTemplate.StringExtensions",
+    "name": "AtCoderTemplate",
+    "shortName": "actemp",
+    "tags": {
+      "language": "C#",
+      "type": "item"
+    }
+  }

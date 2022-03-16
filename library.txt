@@ -1,6 +1,0 @@
-Input
-Modular
-MyMath
-Permutation
-PriorityQueue
-UnionFind
