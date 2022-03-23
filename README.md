@@ -13,7 +13,7 @@ AtCoderで使用できるC#用ライブラリです
 
 ## テンプレートの追加
 ```
-dotnet new -i working/templates/extensions/
+dotnet new -i ./
 ```
 
 ## コマンド

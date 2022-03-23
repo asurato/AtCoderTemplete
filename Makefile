@@ -1,10 +1,10 @@
 out:
-	@dotnet bin/Debug/netcoreapp2.0/AtCoderTemplate.dll	
+	@dotnet bin/Debug/net6.0/AtCoderTemplate.dll	
 
 test:
 	@for i in 1 2 3 4 5; do\
 		echo "$$i 回目のループを開始します。";\
-		dotnet bin/Debug/netcoreapp2.0/AtCoderTemplate.dll;\
+		dotnet bin/Debug/net6.0/AtCoderTemplate.dll;\
 		echo "$$i 回目のループを終了します。";\
 	done
 
